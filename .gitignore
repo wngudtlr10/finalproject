@@ -37,4 +37,4 @@ out/
 .vscode/
 
 .gradle
-.build
+build
